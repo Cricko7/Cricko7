@@ -11,7 +11,7 @@
 
 ## Навыки и технологии
 
-- **Языки программирования:** *JavaScript, Python, Vue,SQLite, PostgreSQL*
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cricko7)](https://github.com/Cricko7/github-readme-stats)
 
 - **Фреймворки и библиотеки:** *React, Node.js, Flask, Aiogram*
 

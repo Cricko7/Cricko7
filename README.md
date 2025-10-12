@@ -10,7 +10,7 @@
 - Ответственная, трудолюбивая, творческая личность;
 - Знаток по *компьютерным сетям* и в *инфобезе* **(документация, криптография, физическая защита, программно-аппаратная защита)**;
 - На данный момент, изучаю *веб-программирование, ИИ, data-science*;
-- Есть несколько интересных проектов на github (`#Ai` `#telegram_bot` `#SEO` `#web_quest`)
+- Есть несколько интересных проектов на github.
 
 ## Навыки и технологии
 
@@ -62,12 +62,12 @@
 
 - Хранение проектов:
   
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 ## Опыт и проекты
+
 ![opit](gif/experrr.gif)
 
 ### Проект 1 — Название
@@ -80,16 +80,21 @@
 - Окончил 4 года обучения в РКСИ по специальности "Информационная безопасность в телекоммуникационных системах".
 
 ## Контакты
-- *Email по работе:* `S73PANOW.WORK@yandex.ru`
+- *Email по работе:*
 
-- *Telegram:* `@giraffick`
+```
+S73PANOW.WORK@yandex.ru
+```
+
+- *Telegram:*
+
+```
+@giraffick
+```
 
 - *VKontakte:* [профиль](https://vk.com/crickette)
 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
 ---
-
 
 <div align="center">
   <img src="gif/goodb.gif" alt="описание" />
